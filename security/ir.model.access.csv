@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_ac_demo_meiwei_ac_demo_meiwei,ac_demo_meiwei.ac_demo_meiwei,model_ac_demo_meiwei_ac_demo_meiwei,,1,0,0,0

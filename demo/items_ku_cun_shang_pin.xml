@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<data noupdate='1'>
+<!-- 库存商品开始 -->
+<record id='item_ku_cun_shang_ping_1' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >法派面包</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_2' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >法派外卖产品</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_3' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >法派巧克力</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_4' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >法派冰淇淋</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_5' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >法派马卡龙</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_6' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >法派其他产品</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_7' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >法派甜点</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_8' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >法派热蛋糕</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_9' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >法派沙拉</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_10' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >法派三明治</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_11' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >法派季节性产品</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_12' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >法派花式面包</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_13' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >法派汤</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_14' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >外购_食品</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_15' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >外购_饮料</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_16' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >外购_杂货</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_17' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >半成品_面团</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_18' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >半成品_饼房基础</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_19' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >半成品_外卖基础</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_20' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >半成品_奶油慕斯</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_21' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >半成品_馅</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_22' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >半成品_糖水</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_23' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >半成品_蛋糕胚/饼底</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_24' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >半成品_巧克力装饰</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<record id='item_ku_cun_shang_ping_25' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_6")' /><field name='name' >半成品_蛋糕基础</field> <field name='glob_tag' eval='[(6, 0, [ref("accountcore.glob_tag_2")])]' /> </record>
+<!-- 库存商品结束 -->
+</data>
+</odoo>
