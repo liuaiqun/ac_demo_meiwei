@@ -346,6 +346,8 @@ def add_qichus(env):
     qichus = []
     all_accounts = t_account.search([('id', '!=', 0)])
     for account in all_accounts:
+        if account.childs_ids:
+            continue
         if account.accountItemClass:
             itemClassId = account.accountItemClass.id
             n = 100
