@@ -46,6 +46,8 @@
 <record id='item_cheng_ben_fei_yong_42' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_4")' /><field name='name' >品控与品管检测费相关</field> <field name='glob_tag' eval='[(6, 0, [ref("glob_tag_1")])]' /> </record>
 <record id='item_cheng_ben_fei_yong_43' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_4")' /><field name='name' >低值易耗品消耗</field> <field name='glob_tag' eval='[(6, 0, [ref("glob_tag_1")])]' /> </record>
 <record id='item_cheng_ben_fei_yong_44' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_4")' /><field name='name' >劳动保护费</field> <field name='glob_tag' eval='[(6, 0, [ref("glob_tag_1")])]' /> </record>
+<record id='item_cheng_ben_fei_yong_45' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_4")' /><field name='name' >商品维修费</field><field name='glob_tag' eval='[(6, 0, [ref("glob_tag_1")])]' /></record>
+<record id='item_cheng_ben_fei_yong_46' model='accountcore.item'><field name='itemClass' eval='ref("accountcore.item_class_4")' /><field name='name' >研究费用</field><field name='glob_tag' eval='[(6, 0, [ref("glob_tag_1")])]' /></record>
 </data>
 <!-- 成本费用项目结束 -->
 </odoo>
